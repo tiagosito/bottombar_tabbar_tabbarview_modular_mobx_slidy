@@ -1,6 +1,6 @@
 # bottombar_tabbar_tabbarview_modular_mobx_slid
 
-A new Flutter project.
+A Flutter example using TabBar, TabBarView, BottomNavigationBar, Modular, Slidy and MobX.
 
 ## Getting Started
 
