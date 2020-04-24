@@ -1,7 +1,7 @@
 # bottombar_tabbar_tabbarview_modular_mobx_slid
 
 A Flutter example using TabBar, TabBarView, BottomNavigationBar, Modular, Slidy and MobX.
-## open terminal and run [ flutter packages get ]
+## open flutter terminal and run [ flutter packages get ]
 
 ## Getting Started
 
